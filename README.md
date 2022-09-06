@@ -17,11 +17,11 @@
 
 ## ⚡ Technologies
 
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
   
