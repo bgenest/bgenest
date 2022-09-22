@@ -10,7 +10,7 @@
   
 <div align = "left">
 <h2> Hi there 👋 </h2>
-<p> I'm Bryan Genest a full-stack Software Developer. I graduated in 2019 with a Bachelors degree in Mechanical Engineering from Wentworth Institue of Technology. After a few years, I quit my job as an Engineer to pursue my passion in software development. As far as formal education goes, I attended Launch Academy Bootcamp. At Launch, we learned full-stack web development: Ruby on Rails for the backend, and React for the frontent. </p>
+<p> I'm Bryan Genest, a Full-Ftack Software Developer. I graduated in 2019 with a Bachelors Degree in Mechanical Engineering from Wentworth Institue of Technology. After a few years working as an Engineer, I quit my job to pursue my passion in Software Development. As far as Software Education goes, I attended Launch Academy Bootcamp. At Launch, we learned full-stack web development: Ruby on Rails for the backend, and React for the frontent. </p>
   
 ## 📱 Contact Me
 - BRGenest@proton.me
