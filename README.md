@@ -13,7 +13,7 @@
 <p> I'm Bryan Genest, a Full-Stack Software Developer. I graduated in 2019 with a Bachelors Degree in Mechanical Engineering from Wentworth Institue of Technology. After a few years working as an Engineer, I quit my job to pursue my passion in Software Development. As far as Software Education goes, I attended Launch Academy Bootcamp. At Launch, we learned full-stack web development: Ruby on Rails for the backend, and React for the frontent. </p>
   
 ## 📱 Contact Me
-- BRGenest@proton.me
+- bgenest96@gmail.com
 
 ## ⚡ Technologies
 
